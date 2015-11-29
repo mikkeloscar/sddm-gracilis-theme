@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Gracilis
+Description=Gracilis Theme
+Author=Mikkel Oscar Lyderik
+Copyright=(c) 2015, Mikkel Oscar Lyderik
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/mikkeloscar/sddm-gracilis
+Screenshot=gracilis.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=mikkeloscar@gmail.com
+Theme-Id=gracilis
+Theme-API=2.0
